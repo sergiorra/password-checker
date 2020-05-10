@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Password Checker</h1>
-  <blockquote>Script to check if a list of passwords have been powned</blockquote>
+  <blockquote>Script to check if a list of passwords have been pwned</blockquote>
 </div>
 
 ## 📦 External libraries installation
