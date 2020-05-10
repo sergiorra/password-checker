@@ -18,7 +18,7 @@ pip3 install requests
 python main.py [Passwords to check]
 ```
 
-Example:
+- Example:
 
 ```
 python main.py hello test abcdefGHIJK
